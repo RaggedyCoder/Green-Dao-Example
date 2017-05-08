@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "159864001732",
+    "firebase_url": "https://daoapp-164ad.firebaseio.com",
+    "project_id": "daoapp-164ad",
+    "storage_bucket": "daoapp-164ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159864001732:android:9aa1c2111bfda534",
+        "android_client_info": {
+          "package_name": "com.betelgeuse.dao.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159864001732-i5nu7k23mj11p61ris3k4gr12v4b5ack.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.betelgeuse.dao.app",
+            "certificate_hash": "d7c908b5e3366927f115bb3849adfd267e130545"
+          }
+        },
+        {
+          "client_id": "159864001732-th31jtonv43c63upnn71rh9eraiijf2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1nQ5sF3e19ke6DrT7IOKir_7HdCPh9kA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159864001732-th31jtonv43c63upnn71rh9eraiijf2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
